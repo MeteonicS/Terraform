@@ -7,4 +7,9 @@
     "useMendCheckNames": true,
     "iacCheckRunConclusionLevel": "failure"
   }
+{
+  "issueSettings": {
+    "iacIssues":true
+  }
+}
 }
